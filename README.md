@@ -1,5 +1,5 @@
 <picture>  
-  <img alt="Curriculo Online" src="https://github.com/GabrielaBrazSantos/portfolio/blob/main/assets/img/print_tela_inicial.JPG" heigth="100%">
+  <img alt="Curriculo Online" src="https://github.com/GabrielaBrazSantos/js-developer-portfolio/blob/main/assets/img/print_tela_inicial.JPG" heigth="100%">
 </picture>
 
 # 📄 Portfólio Online - Gabriela Braz
